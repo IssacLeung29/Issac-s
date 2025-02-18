@@ -1,0 +1,54 @@
+Trial
+
+<!doctype html>
+
+<html>
+    <head> 
+        <meta charset="utf-8">
+
+        <title>Trial</title>
+
+        <link rel="css" href="css">
+
+        <style>
+            h1{background-image: url('https://img.freepik.com/free-vector/vector-background-absvsct-polygon-triangles_2065-346.jpg?t=st=1738827326~exp=1738830926~hmac=9f70cdeaddc45c89947f0cf06afbad5e88cb45378ac17508507637277f167911&w=1380');
+            }
+        </style> 
+           
+    </head>
+
+    <body>
+        <h1>Issac</h1>  
+        <hr>
+    
+        <h2> About me </h2>
+            <p class="one"> I’m a graduated student of Bachelor of Business 
+                (International Hotel & Resort Management) 
+                at the Blue Mountains International Hospitality Management School
+                I’m still seek different aspect of knowledge to gain more experience
+                to get ready for any upcoming unexpected challenges or changes.
+                After I work in various companies, 
+                I became a person who can work cool under pressure 
+                and used to work in a fast-paced environment. 
+                However, I still desire and knee to learn more and more.
+            </p>
+    
+
+        <h3> CAREER 
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/003/767/032/small/promotion-black-glyph-icon-vector.jpg" 
+        alt="Career Logo" width="50" height="50"> </h3> 
+    
+            <div class="two"> Four Seasons Hotel Sydney <br> 
+                Full-time <br>
+                (Reservation Agent) <br>
+                (April, 2024 – current)
+            </div> 
+            <div class="three">Analyze data and forecast<br> 
+                (reviews financial statements, sales and activity report <br>
+                to determine areas needing cost control and program improvement.) 
+            </div>
+            
+            
+    </body> 
+
+</html>
